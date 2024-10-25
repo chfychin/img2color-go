@@ -1,0 +1,9 @@
+{
+  "regions": ["hkg1"],
+  "routes": [
+    {
+      "src": "/api",
+      "dest": "/api/img2color.go"
+    }
+  ]
+}
